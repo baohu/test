@@ -1,7 +1,4 @@
 Welcome to github!
 test1
-<<<<<<< HEAD
 world
-=======
 hello
->>>>>>> dev
